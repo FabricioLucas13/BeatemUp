@@ -913,7 +913,7 @@ function drawGameOverOverlay() {
         return
     }
 
-    drawInGame.fillStyle = 'rgba(0, 0, 0, 0.58)'
+    drawInGame.fillStyle = 'rgba(0, 0, 0, 0.57)'
     drawInGame.fillRect(0, 0, canvas.width, canvas.height)
 
     drawInGame.fillStyle = '#ff2a2a'
